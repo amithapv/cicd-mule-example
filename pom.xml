@@ -7,7 +7,7 @@
 	</parent>
 
 	<modelVersion>4.0.0</modelVersion>
-	<artifactId>firstqa-cicd-demo</artifactId>
+	<artifactId>hello-world</artifactId>
 	<packaging>mule-application</packaging>
 	<name>hello-world</name>
 
